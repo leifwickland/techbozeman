@@ -1,4 +1,11 @@
 [[company]]
+name = "Beartooth"
+url = "https://beartooth.com"
+color = "#ff3900"
+description = "Beartooth is a hardware device that allows for off grid communication. Talk, text and location share without cell service or Wi-Fi."
+badge ="Bozeman HQ"
+
+[[company]]
 name = "Blackmore Sensors and Analytics"
 url = "https://blackmoreinc.com"
 color = "#FF0040"
@@ -27,10 +34,24 @@ description = "Know where you stand with the onX Hunt, the most accurate hunting
 badge =""
 
 [[company]]
+name = "Montana State University"
+url = "http://www.montana.edu/"
+color = "#14639c"
+description = "Montana State University, the state's land-grant institution, educates students, creates knowledge and art, and serves communities by integrating learning, discovery and engagement."
+badge ="Bozeman HQ"
+
+[[company]]
 name = "Montana Instruments"
 url = "https://www.montanainstruments.com"
 color = "#00A9E0"
 description = "Specializing in precise and innovative variable temperature measurement solutions, Montana Instruments designs closed cycle optical cryostats that make researchers more effective."
+badge ="Bozeman HQ"
+
+[[company]]
+name = "Murdoch’s Ranch & Home Supply"
+url = "https://www.murdochs.com"
+color = "#483f0f"
+description = "Murdoch's is your modern day mercantile with the best selection of clothing, footwear, tools, pet supplies, fencing, power equipment and more."
 badge ="Bozeman HQ"
 
 [[company]]
@@ -52,6 +73,13 @@ name = "Pulsara"
 url = "https://www.pulsara.com"
 color = "#a0252c"
 description = "Pulsara is real-time team communication platform across healthcare entities."
+badge ="Bozeman HQ"
+
+[[company]]
+name = "Salient Technologies"
+url = "https://salient-tech.com"
+color = "#151515"
+description = "Salient Technologies, Inc. is a product design consulting company located in Bozeman, MT."
 badge ="Bozeman HQ"
 
 [[company]]
