@@ -15,3 +15,13 @@ address = "123 Snowy Mountain Circle, Big Sky, MT"
 map_url = "https://www.google.com/maps?sll=45.260454,-111.312613&q=123+Snowy+Mountain+Circle+Gallatin+Gateway,+MT,+59730,+United+States&z=12"
 badge = "Coworking"
 image = "big_sky_bs.jpg"
+
+[[space]]
+name = "Bozeman MakerSpace"
+url = "http://bozemanmakers.org"
+description = "The Bozeman MakerSpace is a non-profit Makerspace / Hackerspace in Bozeman, MT. If you have an interest in making, modding things, new technology, or just want to learn how things work, this is to be the place for you."
+address = "7647 Shedhorn Drive Unit A, Bozeman, MT"
+map_url = "https://www.google.com/maps/place/7647+Shedhorn+Dr+a,+Bozeman,+MT+59718/@45.6724079,-111.1849674,17z/data=!4m5!3m4!1s0x53454ec44e830f3f:0xe576381e7d56426!8m2!3d45.6723929!4d-111.183004"
+badge = "Makerspace"
+image = "bozeman_makerspace.jpg"
+

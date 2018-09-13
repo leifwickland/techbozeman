@@ -94,7 +94,7 @@ city = "Bozeman, MT"
 
 All fields are required. 
 
-### Adding Coworking & Office Spaces
+### Adding Coworking & Spaces
 
 Spaces should be added to [data/coworking.toml](data/coworking.toml) in order by name alphabetically. 
 
@@ -112,7 +112,7 @@ image = "os_picture.jpg"
 
 All fields are required. 
 
-- **badge**: Primary type of space. Use one of the following: `Coworking`, `Office Space`
+- **badge**: Primary type of space. Use one of the following: `Coworking`, `Office Space`, `Makerspace1`
 - **image**: 400x200 jpg image of the space placed into [static/images/](static/images/)
 
 ## License
