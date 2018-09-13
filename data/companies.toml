@@ -1,8 +1,22 @@
 [[company]]
+name = "Blackmore Sensors and Analytics"
+url = "https://blackmoreinc.com"
+color = "#FF0040"
+description = "Blackmore Sensors and Analytics, Inc. is a leader in FMCW Lidar and supporting analytic tools."
+badge ="Bozeman HQ"
+
+[[company]]
 name = "Foundant Technologies"
 url = "https://www.foundant.com"
 color = "#2D3B4A"
 description = "Foundant Technologies provides over 1600 grantmakers, grantseekers and community foundations with practical, affordable online grant management software."
+badge ="Bozeman HQ"
+
+[[company]]
+name = "Hoplite Industries"
+url = "https://www.hopliteindustries.com"
+color = "#222222"
+description = "A Leading Edge Cyber Security Company with unique patented technologies designed to unify and harden your defenses and protect your business from costly damages."
 badge ="Bozeman HQ"
 
 [[company]]
@@ -32,6 +46,13 @@ url = "https://www.printingforless.com"
 color = "#1265aa"
 description = "Guaranteed highest quality color printing from any file for custom brochures, catalogs, postcards, business cards and more."
 badge ="Livingston HQ"
+
+[[company]]
+name = "Pulsara"
+url = "https://www.pulsara.com"
+color = "#a0252c"
+description = "Pulsara is real-time team communication platform across healthcare entities."
+badge ="Bozeman HQ"
 
 [[company]]
 name = "Wisetail"
