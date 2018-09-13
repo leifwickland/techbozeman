@@ -1,0 +1,34 @@
+<header>
+  <nav class="navbar navbar-expand-lg navbar-dark is-fixed-top is-transparent">
+    <div class="container">
+      <a class="navbar-brand" href="/">{{ $.Site.Title }}</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample07" aria-controls="navbarsExample07" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarsExample07">
+        <ul class="navbar-nav mr-auto"></ul>
+        <ul class="navbar-nav my-2 my-md-0">
+          <li class="nav-item {{if eq .URL "/"}} active {{ end}}">
+            <a class="nav-link" href="/">Companies {{if eq .URL "/"}} <span class="sr-only">(current)</span> {{end}}</a>
+          </li>
+          <li class="nav-item {{if eq .URL "/community/"}} active {{ end}}">
+            <a class="nav-link" href="/community/">Community {{if eq .URL "/community/"}} <span class="sr-only">(current)</span> {{end}}</a>
+          </li>
+          <li class="nav-item {{if eq .URL "/events/"}} active {{ end}}">
+            <a class="nav-link" href="/events/">Events {{if eq .URL "/events/"}} <span class="sr-only">(current)</span> {{end}}</a>
+          </li>
+          <li class="nav-item {{if eq .URL "/jobs/"}} active {{ end}}">
+            <a class="nav-link" href="/jobs/">Jobs {{if eq .URL "/jobs/"}} <span class="sr-only">(current)</span> {{end}}</a>
+          </li>
+          <li class="nav-item {{if eq .URL "/coworking/"}} active {{ end}}">
+            <a class="nav-link" href="/coworking/">Coworking {{if eq .URL "/coworking/"}} <span class="sr-only">(current)</span> {{end}}</a>
+          </li>
+          <li class="nav-item {{if eq .URL "/contact/"}} active {{ end}}">
+            <a class="nav-link" href="/contact/">Contact {{if eq .URL "/contact/"}} <span class="sr-only">(current)</span> {{end}}</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>

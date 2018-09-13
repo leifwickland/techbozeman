@@ -1,0 +1,13 @@
+<div class="card my-4 shadow-sm">
+  <div class="card-header text-white" style="background:{{ .color }};">
+    <a href="{{ .url}}" target="_blank"><b>{{ .name }}</b></a>
+  </div>
+  <div class="card-body">
+    <p class="card-text">
+      {{ if .badge }}
+        <span class="badge badge-blue">{{ .badge }}</span>&nbsp;
+      {{ end }}
+      {{ .description }}
+    </p>
+  </div>
+</div>  

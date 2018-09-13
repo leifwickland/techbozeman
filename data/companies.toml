@@ -1,0 +1,62 @@
+[[company]]
+name = "Foundant Technologies"
+url = "https://www.foundant.com"
+color = "#2D3B4A"
+description = "Foundant Technologies provides over 1600 grantmakers, grantseekers and community foundations with practical, affordable online grant management software."
+badge ="Bozeman HQ"
+
+[[company]]
+name = "onXmaps"
+url = "https://www.onxmaps.com"
+color = "#f30"
+description = "Know where you stand with the onX Hunt, the most accurate hunting GPS tech on the market with land ownership maps that work offline."
+badge =""
+
+[[company]]
+name = "Montana Instruments"
+url = "https://www.montanainstruments.com"
+color = "#00A9E0"
+description = "Specializing in precise and innovative variable temperature measurement solutions, Montana Instruments designs closed cycle optical cryostats that make researchers more effective."
+badge ="Bozeman HQ"
+
+[[company]]
+name = "Oracle"
+url = "https://www.oracle.com"
+color = "#f80000"
+description = "Oracle offers a comprehensive and fully integrated stack of cloud applications and platform services."
+badge =""
+
+[[company]]
+name = "PrintingForLess"
+url = "https://www.printingforless.com"
+color = "#1265aa"
+description = "Guaranteed highest quality color printing from any file for custom brochures, catalogs, postcards, business cards and more."
+badge ="Livingston HQ"
+
+[[company]]
+name = "Wisetail"
+url = "https://www.wisetail.com"
+color = "#60CE94"
+description = "Wisetail's LMS powers great places to work. Our award-winning LMS is quickly establishing itself as a staple in the online learning industry."
+badge ="Bozeman HQ"
+
+[[company]]
+name = "wolfSSL"
+url = "https://www.wolfssl.com"
+color = "#1fbeca"
+description = "wolfSSL is an embedded SSL/TLS library providing secure communication for IoT, smart grid, connected home, routers, applications, games, phones, and more."
+badge =""
+
+[[company]]
+name = "Workiva"
+url = "https://www.workiva.com"
+color = "#00CC33"
+description = "Workiva is a leading cloud platform for data collaboration, reporting, and compliance."
+badge =""
+
+[[company]]
+name = "Zoot Enterprises"
+url = "https://zootsolutions.com"
+color = "#425aa8"
+description = "Zoot Enterprises is a global provider of advanced origination, acquisition and decision management solutions for financial institutions."
+badge ="Bozeman HQ"

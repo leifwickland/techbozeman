@@ -1,0 +1,45 @@
+[[event]]
+title = "Typescript (Montana Programmers)"
+date = "Wednesday, September 12, 2018"
+url = "https://www.meetup.com/Montana-Programmers/events/254444659/"
+description = "TypeScript, the scalable JavaScript. Wes will cover the challenges and benefits of switching a large production healthcare application to TypeScript. Including any head scratchers, love, or hate from his team. If time allows, setup TypeScript in a project. No previous TypeScript knowledge is necessary."
+location = "Foundant Technologies"
+map_url = "https://www.google.com/maps/search/?api=1&query=143+Willow+Peak+Drive%2C+Bozeman%2C+MT%2C+us"
+city = "Bozeman, MT"
+
+[[event]]
+title = "Hello Bozeman! (Bozeman Salesforce Developer Group)"
+date = "Thursday, September 13, 2018"
+url = "https://www.meetup.com/Montana-Programmers/events/254444659/"
+description = "Come join the first meeting of the newest Ohana community chapter right here in Bozeman! We'll have some sips and dip while we chat, catch up, and get to know each other as we field ideas for future topics and agenda."
+location = "CoWork Bozeman"
+map_url = "https://www.google.com/maps/search/?api=1&query=27+East+Main+Street%2C+Bozeman%2C+mt%2C+59715%2C+us"
+city = "Bozeman, MT"
+
+[[event]]
+title = "Open Build Evening (Bozeman MakerSpace)"
+date = "Thursday, September 13, 2018"
+url = "https://www.meetup.com/bozemanmakers/events/kvtzbpyxmbrb/"
+description = "Open Builds are open to the entire community! If you have a project that you need help with or just want to see what the Makerspace is all about, please stop by. We want to hear about your projects, and we can talk about our past projects, classes, and contests."
+location = "Bozeman Makerspace"
+map_url = "https://www.google.com/maps/search/?api=1&query=7647+Shedhorn+Drive+Unit+A%2C+Bozeman%2C+MT%2C+59718%2C+us"
+city = "Bozeman, MT"
+
+[[event]]
+title = "Bozeman JS Meetup"
+date = "Wednesday, September 19, 2018"
+url = "https://www.meetup.com/Bozeman-JavaScript-Meetup/events/cjqrvlyxmbbc/"
+description = "This is the main event of the Bozeman JS Meetup. Happening every third Thursday of the month at 7pm we convene to talk JavaScript, share projects and ideas, pair program and get to know other JavaScripters."
+location = "Location on Meetup"
+map_url = "https://www.meetup.com/Bozeman-JavaScript-Meetup/events/cjqrvlyxmbbc/"
+city = "Bozeman, MT"
+
+[[event]]
+title = "Open Build Evening (Bozeman MakerSpace)"
+date = "Thursday, September 20, 2018"
+url = "https://www.meetup.com/bozemanmakers/events/kvtzbpyxmbbc/"
+description = "Open Builds are open to the entire community! If you have a project that you need help with or just want to see what the Makerspace is all about, please stop by. We want to hear about your projects, and we can talk about our past projects, classes, and contests."
+location = "Bozeman Makerspace"
+map_url = "https://www.google.com/maps/search/?api=1&query=7647+Shedhorn+Drive+Unit+A%2C+Bozeman%2C+MT%2C+59718%2C+us"
+city = "Bozeman, MT"
+

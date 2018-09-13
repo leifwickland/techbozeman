@@ -1,0 +1,129 @@
+:root {
+    --jumbotron-padding-y: 3rem;
+}
+
+.jumbotron {
+  padding-top: calc(var(--jumbotron-padding-y) * 2.5);
+  padding-bottom: calc(var(--jumbotron-padding-y) * 2.0);
+  margin-bottom: 0;
+  overflow: auto;
+	background: linear-gradient(#0136D3,#4271FF);
+	color: white;
+  border-radius: 0;
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar.is-transparent {
+    background-color: #0136D3;
+    color: #ffffff;
+  }
+}
+
+@media only screen and (min-width: 769px) {
+  .navbar.is-transparent {
+    background-color: transparent;
+    color: #ffffff;
+  }
+}
+
+@media (min-width: 0) {
+  .card-deck .card {
+    flex: 0 0 calc(100% - 30px);
+  }
+}
+@media (min-width: 576px) {
+  .card-deck .card {
+    flex: 0 0 calc(100% - 30px);
+  }
+}
+@media (min-width: 768px) {
+  .card-deck .card {
+    flex: 0 0 calc(50% - 30px);
+  }
+}
+@media (min-width: 992px) {
+  .card-deck .card {
+    flex: 0 0 calc(33.3333333333% - 30px);
+  }
+}
+@media (min-width: 1200px) {
+  .card-deck .card {
+    flex: 0 0 calc(33.3333333333% - 30px);
+  }
+}
+
+.navbar.solid {
+  background-color: #0136D3;
+  color: #ffffff;
+  transition: background-color 1s ease 0s;
+}
+
+.navbar.is-fixed-top {
+  top: 0;
+  left: 0;
+  position: fixed;
+  right: 0;
+  z-index: 2000;
+}
+
+.container.primary-hero {
+  z-index:9900;
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+  z-index: 20;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+.bg-blue {
+  background-color: #0136D3!important;
+  color: #ffffff;
+}
+
+.badge-blue {
+  background-color: #0136D3;
+  color: #ffffff;
+}
+
+.btn-blue {
+  background-color: #0136D3;
+  color: #ffffff;
+}
+
+a, a:visited {
+  color: #0136D3;
+}
+
+a:hover {
+  color: #4271FF;
+}
+
+.container.primary-hero a {
+  position:relative;
+  z-index:1000;
+}
+
+.text-white a, .text-white a:visited, .text-white a:hover {
+  color: #ffffff;
+}
+
+.icon-white {
+  color: #ffffff;
+}

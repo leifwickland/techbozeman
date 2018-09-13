@@ -1,0 +1,17 @@
+[[space]]
+name = "Big Sky Cowork - Bozeman"
+url = "https://www.bigskycowork.com"
+description = "At Big Sky CoWork we offer two memberships currently.  Both have access to Proximity Network and Full Time has 24/7 access to our spaces.  Everyone gets free coffee, snacks, sparkling water, printing and beer (and bourbon)."
+address = "27 East Main Street, Bozeman, MT"
+map_url = "https://www.google.com/maps?sll=45.679637,-111.036342&q=27+East+Main+Street+Bozeman,+MT,+59715,+United+States&z=12"
+badge = "Coworking"
+image = "big_sky_bozeman.jpg"
+
+[[space]]
+name = "Big Sky Cowork - Big Sky"
+url = "https://www.bigskycowork.com"
+description = "At Big Sky CoWork we offer two memberships currently.  Both have access to Proximity Network and Full Time has 24/7 access to our spaces.  Everyone gets free coffee, snacks, sparkling water, printing and beer (and bourbon)."
+address = "123 Snowy Mountain Circle, Big Sky, MT"
+map_url = "https://www.google.com/maps?sll=45.260454,-111.312613&q=123+Snowy+Mountain+Circle+Gallatin+Gateway,+MT,+59730,+United+States&z=12"
+badge = "Coworking"
+image = "big_sky_bs.jpg"

@@ -1,0 +1,83 @@
+[[group]]
+color = "#3864BA"
+url = "https://www.meetup.com/Bozeman-useR-Group-R-Programming-Language/"
+name = "Bozeman Area R useR Group"
+description = "This is a place for Bozeman area R users (from industry and academia alike) to exchange knowledge and experience in solving statistical and data problems using R."
+badge = "Coder"
+
+[[group]]
+color = "#006600"
+url = "https://www.meetup.com/Bozeman-Area-Startup-and-Tech-Society-Happy-Hour/"
+name = "Bozeman Area Startup & Tech Society"
+description = "This group plans to meet monthly at one of Bozeman's fabulous watering holes to help foster a community of entrepreneurs and embrace our technology-based micro-climate."
+badge = "Startups"
+
+[[group]]
+color = "#FF9500"
+url = "https://www.meetup.com/Bozeman-Blockchain/"
+name = "Bozeman Blockchain"
+description = "Cryptocurrency people all levels of experience are welcome. There are no dumb questions. Locations and dates based on suggestions."
+badge = "Tech"
+
+[[group]]
+color = "#CC3333"
+url = "https://www.meetup.com/meetup-group-oxiATbXu/"
+name = "Bozeman Data & Analytics"
+description = "This group is intended for those who have a passion or desire to lean more about Data & Analytics."
+badge = "Tech"
+
+[[group]]
+color = "#F8D525"
+url = "https://www.meetup.com/Bozeman-JavaScript-Meetup/"
+name = "Bozeman JS Meetup"
+description = "Hang out and discuss JavaScript tips, tricks, hacks, and frameworks. Show off interesting projects and learn what's going on in the JS community. No pressure, no mandatory presentations."
+badge = "Coder"
+
+[[group]]
+color = "#f4645f"
+url = "https://www.meetup.com/Bozeman-Laravel/"
+name = "Bozeman Laravel PHP Meetup"
+description = "This is a group primarily for web developers who are interested in expanding their knowledge of the Laravel Framework, and PHP web development best practices."
+badge = "Coder"
+
+[[group]]
+color = "#2e2e2d"
+url = "https://www.meetup.com/bozemanmakers/"
+name = "Bozeman MakerSpace"
+description = "Makerspace / Hackerspace location in Bozeman, MT. If you have an interest in making or modding things, new technology, or just want to learn how things work, this is going to be the place for you."
+badge = "Maker"
+
+[[group]]
+color = "#3290c5"
+url = "https://www.meetup.com/Bozeman-Salesforce-Developer-Group/"
+name = "Bozeman Salesforce Developer Group"
+description = "This group is dedicated to Salesforce developers in Bozeman, MT and beyond. We welcome all developers and non-developers seeking knowledge, inspiration and support on the Salesforce platform."
+badge = "Coder"
+
+[[group]]
+color = "#0D34F8"
+url = "https://www.meetup.com/Bozeman-Women-Coders/"
+name = "Bozeman Women Coders"
+description = "This is a group for women working as web/software developers, girl geeks who build software projects on the side, students pursing a CS degree, female coding bootcampers, or ladies who are interested in learning to code."
+badge = "Coder"
+
+[[group]]
+color = "#2EB8B8"
+url = "https://www.meetup.com/Game-Maker-Studio-2-Meetup/"
+name = "Game Making & Coffee"
+description = "This is a group for anyone interested in making video games."
+badge = "Coder"
+
+[[group]]
+color = "#0D34F8"
+url = "https://www.meetup.com/montanaGeo/"
+name = "Montana GIS and Geospatial"
+description = "This group was started to bring together geospatial professionals and enthusiasts across Montana, including those working in GIS, developing spatial analyses and/or focusing on cartography."
+badge = "Tech"
+
+[[group]]
+color = "#00a2c7"
+url = "https://www.meetup.com/Montana-Programmers/"
+name = "Montana Programmers"
+description = "Montana Programmers is a rapidly growing community of programmers. Our goal is to build a fun and rewarding network of coders from all walks of life, languages, backgrounds, industries, and skill levels."
+badge = "Coder"

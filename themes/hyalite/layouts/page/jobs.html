@@ -1,0 +1,18 @@
+{{ define "main" -}}
+<div class="album py-5 bg-light">
+  <div class="container">
+
+    {{ range $.Site.Data.jobs.job }}
+      {{ partial "job.html" . }}
+    {{ end }}
+
+  </div>
+
+  <br><br>
+  <div class="text-center">
+    <a href="https://github.com/techbozeman/techbozeman#contributing" target="_blank" class="btn btn-primary">
+      <i class="fas fa-plus-circle"></i> Add New Job
+    </a>
+  </div>
+</div>
+{{- end }}

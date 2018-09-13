@@ -1,0 +1,15 @@
+<section class="jumbotron text-center">
+  <div class="container primary-hero">
+    <h1 class="jumbotron-heading">{{if .IsHome}}{{ $.Site.Title }}{{else}}{{.Title}}{{end}}</h1>
+    <p class="lead">{{if .IsHome}}{{ $.Site.Params.subtitle }}{{else}}{{.Params.subtitle}}{{end}}</p>
+    <p>
+      {{if $.Site.Params.twitter}}
+        <a href="https://twitter.com/{{$.Site.Params.twitter}}" target="_blank"><i class="fab fa-twitter-square fa-3x icon-white"></i></a>
+      {{ end }}
+      {{if $.Site.Params.github}}
+        &nbsp; &nbsp;
+        <a href="https://github.com/{{$.Site.Params.github}}" target="_blank"><i class="fab fa-github-square fa-3x icon-white"></i></a>
+      {{ end }}
+    </p>
+  </div>
+</section>

@@ -1,0 +1,11 @@
+baseURL = "https://www.techbozeman.com"
+languageCode = "en-us"
+title = "Tech Bozeman"
+theme = "hyalite"
+
+[params]
+  subtitle = "Tech Companies in Bozeman, MT"
+  description = "Tech Bozeman provides news and information about Bozeman, Montana tech companies, groups, events, jobs, and coworking."
+  twitter = "techbozeman"
+  github = "techbozeman"
+  google_site_verification = "8gqkTMHftpoGnc1k1Oo2x-eNktjJMsjDEbEYKkYSQEw"
