@@ -27,6 +27,13 @@ description = "A Leading Edge Cyber Security Company with unique patented techno
 badge ="Bozeman HQ"
 
 [[company]]
+name = "IronCore Labs"
+url = "https://www.ironcorelabs.com"
+color = "#111111"
+description = "IronCore is a development platform for end-to-end data control, privacy, and security."
+badge =""
+
+[[company]]
 name = "onXmaps"
 url = "https://www.onxmaps.com"
 color = "#f30"
