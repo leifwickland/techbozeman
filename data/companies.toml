@@ -13,6 +13,13 @@ description = "Blackmore Sensors and Analytics, Inc. is a leader in FMCW Lidar a
 badge ="Bozeman HQ"
 
 [[company]]
+name = "Figure"
+url = "https://www.figure.com"
+color = "#190050"
+description = "Figure is a financial technology company leveraging blockchain, AI and analytics to deliver products to improve the financial lives of our customers. We create innovative products for consumers and a blockchain protocol that enhances the origination, custody, trading and securitization of assets for institutions."
+badge = ""
+
+[[company]]
 name = "Foundant Technologies"
 url = "https://www.foundant.com"
 color = "#2D3B4A"
