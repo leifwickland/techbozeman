@@ -26,6 +26,15 @@ map_url = "https://www.google.com/maps/search/?api=1&query=7647+Shedhorn+Drive+U
 city = "Bozeman, MT"
 
 [[event]]
+title = "Dreamforce Keynote Viewing Party! (Bozeman Salesforce Developer Group)"
+date = "Tuesday, September 25, 2018"
+url = "https://www.meetup.com/Bozeman-Salesforce-Developer-Group/events/254614070/"
+description = "Join us to watch Mark Benioff's keynote at Dreamforce! Food and beverages provided."
+location = "CoWork Bozeman"
+map_url = "https://www.google.com/maps/search/?api=1&query=27+East+Main+Street%2C+Bozeman%2C+mt%2C+59715%2C+us"
+city = "Bozeman, MT"
+
+[[event]]
 title = "TBD (Bozeman Laravel PHP Meetup)"
 date = "Wednesday, October 3, 2018"
 url = "https://www.meetup.com/Bozeman-Laravel/events/rkfqdnyxnbfb/"
