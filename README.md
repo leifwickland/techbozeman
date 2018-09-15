@@ -2,7 +2,8 @@
 
 Tech Bozeman website, covering the tech community in Bozeman, Montana.
 
-Built with [Hugo](https://gohugo.io/), a static site generator. Auto deploys from master branch to [Netlify](https://www.netlify.com).
+Built with [Hugo](https://gohugo.io/), a static site generator. It uses the
+[hyalite](https://github.com/techbozeman/hyalite) hugo theme.
 
 ## Contributing
 
@@ -115,10 +116,10 @@ All fields are required.
 - **badge**: Primary type of space. Use one of the following: `Coworking`, `Office Space`, `Makerspace1`
 - **image**: 400x200 jpg image of the space placed into [static/images/](static/images/)
 
-## License
-
-Tech Bozeman is licensed under the [MIT license](LICENSE.md)
-
 ## Author
 
 [Bryce Johnston](https://github.com/beaorn)
+
+## License
+
+Tech Bozeman is licensed under the [MIT license](LICENSE.md)
