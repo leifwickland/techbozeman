@@ -97,6 +97,13 @@ description = "Salient Technologies, Inc. is a product design consulting company
 badge ="Bozeman HQ"
 
 [[company]]
+name = "Schedulicity"
+url = "https://www.schedulicity.com"
+color = "#20303a"
+description = "Schedulicity is the leading online appointment, class and workshop scheduling system and platform for discovering and booking local services in more than 50 different industries."
+badge ="Bozeman HQ"
+
+[[company]]
 name = "Wisetail"
 url = "https://www.wisetail.com"
 color = "#60CE94"
