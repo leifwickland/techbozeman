@@ -1,13 +1,13 @@
 # Tech Bozeman
 
-Tech Bozeman website, covering the tech community in Bozeman, Montana. 
+Tech Bozeman website, covering the tech community in Bozeman, Montana.
 
 Built with [Hugo](https://gohugo.io/), a static site generator. Auto deploys from master branch to [Netlify](https://www.netlify.com).
 
-## Contributing 
+## Contributing
 
 There are 3 methods for contributing:
-1. Fork the repository and create a pull request with a summary of the changes :) 
+1. Fork the repository and create a pull request with a summary of the changes :)
 2. Or [open an issue here](https://github.com/techbozeman/techbozeman/issues) and document the requested changes
 3. Or if you are unfamilar with GitHub, submit a request from the [website's contact page](https://www.techbozeman.com/contact)
 
@@ -22,7 +22,7 @@ Submissions to add or update listings, general improvements to the website, and 
 
 ### Adding Companies
 
-Companies should be added to [data/companies.toml](data/companies.toml) in order by company name alphabetically. 
+Companies should be added to [data/companies.toml](data/companies.toml) in order by company name alphabetically.
 
 Format for adding a company:
 ```toml
@@ -34,14 +34,14 @@ description = "Succinct company description"
 badge = "Bozeman HQ"
 ```
 
-All fields are required except badge. 
+All fields are required except badge.
 
 - **color**: Hex format. One of the company's primary colors that is dark enough to display white text over.
 - **badge**: Use badge only if the business is headquarted out of Bozeman or a surrounding city, otherwise use empty string.
 
 ### Adding Groups
 
-Groups should be added to [data/community.toml](data/community.toml) in order by company name alphabetically. 
+Groups should be added to [data/community.toml](data/community.toml) in order by company name alphabetically.
 
 Format for adding a group:
 ```toml
@@ -53,7 +53,7 @@ description = "Succinct group description"
 badge = "Coder"
 ```
 
-All fields are required. 
+All fields are required.
 
 - **badge**: Primary type of group. Use one of the following: `Coder`, `Tech`, `Startups`
 
@@ -73,7 +73,7 @@ map_url = "https://www.google.com/maps/?etc"
 city = "Bozeman, MT"
 ```
 
-All fields are required. 
+All fields are required.
 
 ### Adding Jobs
 
@@ -92,11 +92,11 @@ companuy_url = "https://www.example.com"
 city = "Bozeman, MT"
 ```
 
-All fields are required. 
+All fields are required.
 
 ### Adding Coworking & Spaces
 
-Spaces should be added to [data/coworking.toml](data/coworking.toml) in order by name alphabetically. 
+Spaces should be added to [data/coworking.toml](data/coworking.toml) in order by name alphabetically.
 
 Format for adding a space:
 ```toml
@@ -110,11 +110,15 @@ badge = "Coworking"
 image = "os_picture.jpg"
 ```
 
-All fields are required. 
+All fields are required.
 
 - **badge**: Primary type of space. Use one of the following: `Coworking`, `Office Space`, `Makerspace1`
 - **image**: 400x200 jpg image of the space placed into [static/images/](static/images/)
 
 ## License
 
-Open sourced under the [MIT license](LICENSE.md).
+Tech Bozeman is licensed under the [MIT license](LICENSE.md)
+
+## Author
+
+[Bryce Johnston](https://github.com/beaorn)
