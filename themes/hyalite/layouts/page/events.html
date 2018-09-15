@@ -1,6 +1,6 @@
 {{ define "main" -}}
 <div class="album py-5 bg-light">
-  <div class="container"> 
+  <div class="container">
 
     {{ range $.Site.Data.events.event }}
       {{ partial "event.html" . }}
@@ -8,11 +8,22 @@
 
   </div>
 
-  <br><br>
+  <br>
   <div class="text-center">
     <a href="https://github.com/techbozeman/techbozeman#contributing" target="_blank" class="btn btn-primary">
       <i class="fas fa-plus-circle"></i> Add New Event
     </a>
+  </div>
+
+  <div class="container">
+    <br><hr><br>
+
+    <h4 class="text-center">Past Events</h4><br>
+
+    {{ range $.Site.Data.events.past_event }}
+      {{ partial "event.html" . }}
+    {{ end }}
+
   </div>
 </div>
 {{- end }}
