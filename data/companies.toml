@@ -13,6 +13,13 @@ description = "Blackmore Sensors and Analytics, Inc. is a leader in FMCW Lidar a
 badge ="Bozeman HQ"
 
 [[company]]
+name = "Dataminr"
+url = "https://www.dataminr.com"
+color = "#10223e"
+description = "Dataminr's clients are the first to know about critical events and breaking information, enabling them to act faster and stay one step ahead."
+badge =""
+
+[[company]]
 name = "Figure"
 url = "https://www.figure.com"
 color = "#190050"
@@ -88,6 +95,20 @@ url = "https://www.pulsara.com"
 color = "#a0252c"
 description = "Pulsara is real-time team communication platform across healthcare entities."
 badge ="Bozeman HQ"
+
+[[company]]
+name = "Quiq"
+url = "https://goquiq.com"
+color = "#404552"
+description = "Quiq's business messaging software solutions help you connect with your customers via SMS, FB Messenger, Web Chat, Kik and In-App messaging."
+badge ="Bozeman HQ"
+
+[[company]]
+name = "Rubicon Project"
+url = "https://rubiconproject.com"
+color = "#E31937"
+description = "Engineering the world's largest independent advertising marketplace connecting more than one billion users globally."
+badge =""
 
 [[company]]
 name = "Salient Technologies"
