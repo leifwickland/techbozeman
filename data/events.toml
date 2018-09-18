@@ -26,6 +26,15 @@ map_url = "https://www.google.com/maps/search/?api=1&query=7647+Shedhorn+Drive+U
 city = "Bozeman, MT"
 
 [[event]]
+title = "Early Stage Montana Statewide Showcase"
+date = "Saturday, September 22, 2018"
+url = "https://www.eventbrite.com/e/early-stage-montana-statewide-showcase-tickets-47853773926?aff=efbneb"
+description = "Join us at the Museum of the Rockies in Bozeman, MT on Sept 22 for the inaugural Early Stage Montana Statewide Showcase! Come support early stage and emerging technology businesses in Montana, networking and education."
+location = "Museum of the Rockies"
+map_url = "https://www.google.com/maps/place/Museum+of+the+Rockies/@45.6587314,-111.0470212,17z/data=!4m12!1m6!3m5!1s0x5345451b69b8bbd5:0x53ba18ef074a0758!2sMuseum+of+the+Rockies!8m2!3d45.6587314!4d-111.0448325!3m4!1s0x5345451b69b8bbd5:0x53ba18ef074a0758!8m2!3d45.6587314!4d-111.0448325"
+city = "Bozeman, MT"
+
+[[event]]
 title = "Dreamforce Keynote Viewing Party! (Bozeman Salesforce Developer Group)"
 date = "Tuesday, September 25, 2018"
 url = "https://www.meetup.com/Bozeman-Salesforce-Developer-Group/events/254614070/"
