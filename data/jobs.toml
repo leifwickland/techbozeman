@@ -17,3 +17,43 @@ skills = "SQL Server administration, T-SQL coding, database application developm
 company = "Schedulicity"
 companuy_url = "https://www.schedulicity.com"
 city = "Bozeman, MT"
+
+[[job]]
+title = "Software Development Engineer - C++"
+job_url = "https://rubiconproject.com/careers/job/?gh_jid=1331930"
+post_date = "September 18, 2018"
+description = "The Rubicon Project is looking for a Software Development Engineer, skilled primarily in C++, to join our growing team of enthusiastic engineers on the core ad-serving system.  Every day, as a company we serve 60+ Billions of ads, process terabytes of data and provide valuable data and insights to our publishers and buyers. Every month our systems are used by 200+ million people around the world.  You will be working in the team that is focused on the architecture of, and process innovation around, the application at the forefront of this real-time processing."
+skills = "C++, Perl/Python, large-scale, high-traffic, SQL, linux"
+company = "Rubicon Project"
+companuy_url = "https://rubiconproject.com/careers/"
+city = "Bozeman, MT"
+
+[[job]]
+title = "Senior Software Development Engineer In Test"
+job_url = "https://rubiconproject.com/careers/job/?gh_jid=1331961"
+post_date = "September 18, 2018"
+description = "The Rubicon Project is growing our QA team and we are looking for a Mid-Senior SDET who is capable of breaking down and solving complex problems, and has a strong will to get things done. Our QA team at the Rubicon Project works on real world problems on a global scale, own their systems end to end and influences the direction of our technology."
+skills = "QA automation, Java, Python, SQL, benchmarking"
+company = "Rubicon Project"
+companuy_url = "https://rubiconproject.com/careers/"
+city = "Bozeman, MT"
+
+[[job]]
+title = "Data Engineer - Scala/Java"
+job_url = "https://rubiconproject.com/careers/job/?gh_jid=1331982"
+post_date = "September 18, 2018"
+description = "If working on a high performance, scalable Data solution on one of the largest Big Data Systems in the world that supports 70+ Billion transactions a day, sound exciting and challenging enough for you, then read on! Rubicon Project is looking for passionate engineers to work on our industry-leading Reporting Application which will offer world-class user experience for our customers on a global scale. This is a great opportunity for a Jr-Mid Level Engineer who is looking to gain experience on a larger scale and be involved with the Data and UI/API side of reporting."
+skills = "Big Data, Scala, Java, Spark, SQL, python, REST, Druid"
+company = "Rubicon Project"
+companuy_url = "https://rubiconproject.com/careers/"
+city = "Bozeman, MT"
+
+[[job]]
+title = "Mid-Sr. Systems Engineer- DevOps"
+job_url = "https://rubiconproject.com/careers/job/?gh_jid=1331992"
+post_date = "September 18, 2018"
+description = "If you have a passion for high performance computing then come be part of the TechOps team that supports real time, high volume complex advertising and bidding network, jobs running on a large Hadoop data warehouse and a host of other technical problems waiting to be solved. As a member of the DevOps team you must be able to ask the right questions, understand the business and technical requirements of internal and external clients, and then translate those needs into actionable items for execution in conjunction with other cross-functional team members."
+skills = "linux, Puppet, Chef, bash, python, Internet protocols"
+company = "Rubicon Project"
+companuy_url = "https://rubiconproject.com/careers/"
+city = "Bozeman, MT"
